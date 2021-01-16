@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello, I'm Matthew, that cool Discord developer guy</h3>
+<h1 align="center">👋 Hello, I'm Matthew, that cool Discord developer guy</h3>
 
 <h4 align="center">You may know me as Ubiqu1ty or CanadianJudgement as my online pseudonyms</h4>
 
