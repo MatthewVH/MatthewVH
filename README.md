@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello, I'm Matthew, that cool Discord developer guy</h1>
+<h3 align="center">👋 Hello, I'm Matthew, that cool Discord developer guy</h3>
 
-You may know me as Ubiqu1ty or CanadianJudgement as my online pseudonyms
+<h4 align="center">You may know me as Ubiqu1ty or CanadianJudgement as my online pseudonyms</h4>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
